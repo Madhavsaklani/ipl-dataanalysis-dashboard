@@ -8,9 +8,7 @@ This project analyzes IPL (Indian Premier League) data using Python to understan
  ipl-dataanalysis-dashboard/
 ├── data/ → Contains CSV files like matches.csv, deliveries.csv 
 ├── notebook/ → Jupyter notebooks with EDA and visualizations 
-├── scripts/ → Python scripts (modularized code if needed) 
 ├── visuals/ → Exported graphs and plots 
-├── reports/ → Summary documents or presentations 
 ├── README.md → You’re reading it right now!
 └── requirements.txt → Python libraries used (e.g. pandas, matplotlib, seaborn)
  </pre>
