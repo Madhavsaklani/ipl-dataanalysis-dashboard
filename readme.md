@@ -22,7 +22,7 @@ This project analyzes IPL (Indian Premier League) data using Python to understan
 - Jupyter Notebook
 
 ## 📌 Key Analyses (Planned / In Progress)
-- Top Run Scorers
+- Top Run Scorers:- hence the top bats with the runs emerged as suresh raina with 4548n runs
 - Most Wickets & Economy Rates
 - Player of the Match Impact
 - Team-wise performance trends
