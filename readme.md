@@ -23,11 +23,16 @@ This project analyzes IPL (Indian Premier League) data using Python to understan
 
 ## 📌 Key Analyses (Planned / In Progress)
 - Top Run Scorers
-- Most Wickets & Economy Rates
-- Player of the Match Impact
-- Team-wise performance trends
-- Year-wise analysis
+This analysis identifies the top 10 batsmen in IPL history based on total runs scored.
+Ball-by-ball data was used, and only `batsman_runs` were considered to exclude extras
+and accurately measure individual batting performance.
 
+**Key Insight:**
+Suresh Raina emerges as the highest run scorer, highlighting his consistency across
+multiple IPL seasons. Players like Virat Kohli and Rohit Sharma closely follow,
+indicating long-term performance rather than short peak seasons.
+
+![Top 10 IPL Run Scorers](visuals/top_10_run_scorers.png)
 ## 📂 Dataset Source
 - [Kaggle - IPL Complete Dataset 2008–2020](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-2008-2020)
 
